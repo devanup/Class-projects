@@ -1,2 +1,2 @@
-# CSciI127
+# CSci127
 Introduction to Computer Science
