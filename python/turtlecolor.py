@@ -5,11 +5,13 @@
 
 import turtle
 
-number = raw_input("Please enter a 6-digit Hexadecimal number: ")
-number = "#" + number
+number = input("Please enter a 6-digit Hexadecimal number: ")
+color = "#" + number
 
 thea = turtle.Turtle()
 thea.shape("turtle")
-thea.color(number)
+thea.color(color)
+thea.stamp()
 
-turtle.done()
+
+# turtle.done()
