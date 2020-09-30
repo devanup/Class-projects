@@ -1,5 +1,5 @@
 # Name: Anup Thapa
-#Email:  anup.thapa65@myhunter.cuny.edu
+# Email:  anup.thapa65@myhunter.cuny.edu
 # Date: September 29, 2020
 # This program prompts the user to enter a list of names in a specific format and then formats the inputted string in a specific order and then outputs it
 
